@@ -4,3 +4,4 @@ Stephen King was born September 21, 1947, in Portland, Maine
 
 Line was added in feature/one branch
 Line was added in feature/one but should be rebased to master and then to feature/two
+Another line was added in feature/one but should be rebased to master and then to feature/two
