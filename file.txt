@@ -1,3 +1,5 @@
 My first line in project
 Paris is the capical of France
 Stephen King was born September 21, 1947, in Portland, Maine
+
+Line was added in feature/one branch
